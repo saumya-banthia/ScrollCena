@@ -1,0 +1,23 @@
+{
+  "name": "Scroll Cena!",
+  "version": "1.0",
+  "manifest_version": 2,
+  "description": "A dope extension to remove scroll bars! Coz they're hella' distracting!!!",
+  "icons": {
+    "16": "icons/scroll16.png",
+	"19": "icons/scroll19.png",
+    "48": "icons/scroll48.png",
+    "128": "icons/scroll128.png"
+  },
+  "default_locale": "en",
+  "content_scripts": [
+    {
+      "matches": [
+        "<all_urls>"
+      ],
+      "css": [
+        "src/inject/inject.css"
+      ]
+    }
+  ]
+}
