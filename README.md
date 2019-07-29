@@ -26,8 +26,6 @@ If you're using an older version you might be able to install using the CRX: [LI
 # Fair Warning
 I am no experienced coder and you have now be warned about it, so USE AT YOUR OWN RISK!
 
-The code base for the whole of this program is just 3 lines of css code, it probably should not do any harm.
-
 PS: I totally forgot to:
 
 -   Put malware or miner into the extension.
