@@ -9,6 +9,7 @@ Once you install this extension, your scrollbars will be like:
 # Why did I build this?
   - I do not like reading long articles, but I realized that I only notice an article is long when I notice the scrollbar. **That's why that evil thing had to be destroyed!!**
   - Also, built it for lazy people like me who can't find an extension which could insert custom code and have a global and local distinction in its persistence module.
+  - Also, I was just bored and thought let's make a Github repo for some reason!
 
 P.S.: If you have a CSS injector of that sort above (or the one's you find in the webstore fulfill your purpose), here's the 3 lines of magic CSS you need to achieve the Scroll Cena effect:
 
